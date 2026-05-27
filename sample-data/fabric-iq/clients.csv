@@ -1,0 +1,26 @@
+client_id,client_name,industry,sub_industry,size_tier,region,relationship_start_date,total_lifetime_value_usd,primary_partner
+CLI-001,Apex Financial Group,Financial Services,Regional Bank,Enterprise,Southeast,2022-03-15,4200000,Helen Marsh
+CLI-002,First Republic Advisors,Financial Services,Wealth Management,Mid-Market,West,2023-01-20,1200000,Tariq Osei
+CLI-003,Commonwealth Insurance Group,Financial Services,Insurance,Enterprise,Northeast,2021-09-10,3800000,Helen Marsh
+CLI-004,Pinnacle Credit Union,Financial Services,Credit Union,Mid-Market,Midwest,2023-06-01,650000,Tariq Osei
+CLI-005,Trident Capital Markets,Financial Services,Capital Markets,Enterprise,Northeast,2022-11-05,2400000,Amara Diallo
+CLI-006,Beacon State Bank,Financial Services,Regional Bank,Mid-Market,Southeast,2024-02-12,480000,Tariq Osei
+CLI-007,Sterling Wealth Partners,Financial Services,Wealth Management,Mid-Market,West,2023-08-22,920000,Helen Marsh
+CLI-008,Atlas Mutual Insurance,Financial Services,Insurance,Enterprise,Midwest,2022-05-30,2100000,Amara Diallo
+CLI-009,Cobalt Investment Group,Financial Services,Asset Management,Mid-Market,Northeast,2024-04-08,380000,Tariq Osei
+CLI-010,Heritage Federal Savings,Financial Services,Regional Bank,Mid-Market,Southeast,2023-11-15,720000,Tariq Osei
+CLI-011,NovaCare Health Systems,Healthcare,Provider,Enterprise,Northeast,2022-07-18,5100000,Rachel Whitfield
+CLI-012,CareFirst BlueCross,Healthcare,Payer,Enterprise,Mid-Atlantic,2021-12-03,2800000,Amara Diallo
+CLI-013,Regional Medical Center Alliance,Healthcare,Provider,Mid-Market,Southeast,2023-04-25,1900000,Rachel Whitfield
+CLI-014,Bright Horizons Behavioral Health,Healthcare,Specialty Provider,Mid-Market,West,2024-01-10,620000,Priya Sharma
+CLI-015,Pacific Northwest Health Plan,Healthcare,Payer,Mid-Market,West,2023-09-14,1100000,Amara Diallo
+CLI-016,Cascade Children's Hospital,Healthcare,Provider,Mid-Market,West,2024-03-22,540000,Priya Sharma
+CLI-017,Summit Specialty Pharmacy,Healthcare,Life Sciences,Mid-Market,Southeast,2023-10-30,380000,Rachel Whitfield
+CLI-018,Lakeside Senior Living Group,Healthcare,Senior Care,Mid-Market,Midwest,2024-06-05,290000,Priya Sharma
+CLI-019,Titan Industrial Solutions,Industrial,Specialty Chemicals,Enterprise,Gulf Coast,2022-09-20,3400000,Amara Diallo
+CLI-020,Beacon Industrial Corporation,Industrial,Aerospace Components,Mid-Market,Midwest,2023-10-12,1100000,Amara Diallo
+CLI-021,Horizon Logistics,Industrial,Logistics,Enterprise,Southeast,2022-02-08,2600000,Rachel Whitfield
+CLI-022,Cornerstone Manufacturing,Industrial,Discrete Manufacturing,Mid-Market,Midwest,2023-12-18,780000,Elena Vasquez
+CLI-023,Vanguard Materials Group,Industrial,Advanced Materials,Mid-Market,Gulf Coast,2024-02-28,420000,Elena Vasquez
+CLI-024,Northstar Energy Services,Industrial,Energy Services,Enterprise,Gulf Coast,2023-07-22,1400000,Tariq Osei
+CLI-025,Pioneer Logistics Group,Industrial,Logistics,Mid-Market,West,2024-05-15,340000,Rachel Whitfield

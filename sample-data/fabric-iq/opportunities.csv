@@ -1,0 +1,31 @@
+opportunity_id,client_id,client_name,opportunity_name,industry,service_line,stage,expected_value_usd,probability,expected_close_date,owner_id,owner_name,primary_competitor,last_activity_date,days_in_stage
+OPP-001,CLI-001,Apex Financial Group,AI Fraud Detection Expansion,Financial Services,Data & AI Advisory,Negotiation,1600000,0.75,2026-07-15,CON-004,Amara Diallo,Slalom,2026-05-18,65
+OPP-002,CLI-001,Apex Financial Group,Loan Origination Modernization,Financial Services,Technology Implementation,Discovery,2200000,0.4,2026-09-30,CON-002,Tariq Osei,Accenture,2026-05-12,39
+OPP-003,CLI-002,First Republic Advisors,Wealth Platform Analytics,Financial Services,Data & AI Advisory,Proposal Submitted,780000,0.55,2026-07-08,CON-002,Tariq Osei,West Monroe,2026-05-15,8
+OPP-004,CLI-003,Commonwealth Insurance Group,Claims Workflow Automation,Financial Services,Operational Excellence,Qualifying,1100000,0.25,2026-10-15,CON-003,Rachel Whitfield,Deloitte,2026-05-02,66
+OPP-005,CLI-004,Pinnacle Credit Union,Member Analytics Platform,Financial Services,Data & AI Advisory,Proposal Submitted,540000,0.6,2026-06-30,CON-002,Tariq Osei,Slalom,2026-05-20,43
+OPP-006,CLI-005,Trident Capital Markets,Real-Time Risk Dashboard,Financial Services,Data & AI Advisory,Negotiation,920000,0.8,2026-06-22,CON-004,Amara Diallo,Boutique AI Firm,2026-05-22,27
+OPP-007,CLI-007,Sterling Wealth Partners,Advisor Workbench Modernization,Financial Services,Technology Implementation,Discovery,680000,0.35,2026-09-10,CON-001,Helen Marsh,Slalom,2026-05-11,16
+OPP-008,CLI-008,Atlas Mutual Insurance,Generative AI for Underwriting,Financial Services,Data & AI Advisory,Proposal Submitted,1400000,0.65,2026-07-12,CON-004,Amara Diallo,Capgemini,2026-05-19,63
+OPP-009,CLI-009,Cobalt Investment Group,Portfolio Analytics Build,Financial Services,Data & AI Advisory,Qualifying,420000,0.3,2026-08-25,CON-002,Tariq Osei,Boutique AI Firm,2026-05-08,51
+OPP-010,CLI-010,Heritage Federal Savings,Branch Automation Strategy,Financial Services,Strategy & Transformation,Discovery,380000,0.45,2026-08-08,CON-002,Tariq Osei,West Monroe,2026-05-14,45
+OPP-011,CLI-011,NovaCare Health Systems,Ambient Clinical Documentation,Healthcare,Data & AI Advisory,Negotiation,1900000,0.78,2026-06-30,CON-003,Rachel Whitfield,Accenture,2026-05-21,61
+OPP-012,CLI-011,NovaCare Health Systems,Revenue Cycle Analytics,Healthcare,Data & AI Advisory,Discovery,1100000,0.4,2026-09-15,CON-004,Amara Diallo,Deloitte,2026-05-09,39
+OPP-013,CLI-012,CareFirst BlueCross,Prior Auth Automation,Healthcare,Operational Excellence,Proposal Submitted,1300000,0.6,2026-07-05,CON-003,Rachel Whitfield,Accenture,2026-05-17,65
+OPP-014,CLI-013,Regional Medical Center Alliance,Care Coordination Platform,Healthcare,Technology Implementation,Qualifying,1600000,0.25,2026-10-20,CON-003,Rachel Whitfield,Slalom,2026-05-05,45
+OPP-015,CLI-014,Bright Horizons Behavioral Health,Patient Outcomes Analytics,Healthcare,Data & AI Advisory,Proposal Submitted,480000,0.65,2026-06-25,CON-006,Priya Sharma,Boutique AI Firm,2026-05-16,32
+OPP-016,CLI-015,Pacific Northwest Health Plan,Provider Network Analytics,Healthcare,Data & AI Advisory,Negotiation,720000,0.7,2026-06-18,CON-004,Amara Diallo,Slalom,2026-05-22,56
+OPP-017,CLI-016,Cascade Children's Hospital,Telehealth Platform Expansion,Healthcare,Technology Implementation,Discovery,420000,0.4,2026-08-30,CON-006,Priya Sharma,Capgemini,2026-05-10,68
+OPP-018,CLI-018,Lakeside Senior Living Group,Care Quality Analytics,Healthcare,Data & AI Advisory,Qualifying,290000,0.3,2026-09-05,CON-006,Priya Sharma,West Monroe,2026-05-07,20
+OPP-019,CLI-019,Titan Industrial Solutions,Plant Cybersecurity Modernization,Industrial,Technology Implementation,Proposal Submitted,1200000,0.55,2026-07-08,CON-002,Tariq Osei,Accenture,2026-05-18,37
+OPP-020,CLI-020,Beacon Industrial Corporation,Supply Chain Visibility,Industrial,Data & AI Advisory,Discovery,880000,0.4,2026-08-15,CON-004,Amara Diallo,Slalom,2026-05-13,55
+OPP-021,CLI-021,Horizon Logistics,Customer Portal Modernization,Industrial,Technology Implementation,Qualifying,1400000,0.25,2026-10-08,CON-003,Rachel Whitfield,Capgemini,2026-05-04,52
+OPP-022,CLI-022,Cornerstone Manufacturing,MES Cloud Migration,Industrial,Technology Implementation,Proposal Submitted,920000,0.5,2026-07-22,CON-008,Elena Vasquez,West Monroe,2026-05-19,44
+OPP-023,CLI-023,Vanguard Materials Group,R&D Data Platform,Industrial,Data & AI Advisory,Discovery,580000,0.45,2026-08-12,CON-008,Elena Vasquez,Boutique AI Firm,2026-05-11,44
+OPP-024,CLI-024,Northstar Energy Services,Predictive Maintenance Scale-Out,Industrial,Data & AI Advisory,Negotiation,1800000,0.75,2026-06-28,CON-004,Amara Diallo,Accenture,2026-05-23,9
+OPP-025,CLI-024,Northstar Energy Services,Field Service Optimization,Industrial,Operational Excellence,Qualifying,720000,0.3,2026-09-22,CON-003,Rachel Whitfield,Deloitte,2026-05-06,57
+OPP-026,CLI-025,Pioneer Logistics Group,Fleet Analytics Platform,Industrial,Data & AI Advisory,Proposal Submitted,540000,0.6,2026-07-15,CON-003,Rachel Whitfield,Slalom,2026-05-20,42
+OPP-027,CLI-001,Apex Financial Group,Treasury Analytics Dashboard,Financial Services,Data & AI Advisory,Closed Won,380000,1.0,2026-04-30,CON-004,Amara Diallo,Slalom,2026-04-30,8
+OPP-028,CLI-003,Commonwealth Insurance Group,Document Intelligence Pilot,Financial Services,Data & AI Advisory,Closed Lost,620000,0.0,2026-05-08,CON-001,Helen Marsh,Boutique AI Firm,2026-05-08,13
+OPP-029,CLI-011,NovaCare Health Systems,Imaging AI Pilot,Healthcare,Data & AI Advisory,Closed Won,480000,1.0,2026-05-15,CON-004,Amara Diallo,Accenture,2026-05-15,70
+OPP-030,CLI-019,Titan Industrial Solutions,Energy Optimization Pilot,Industrial,Data & AI Advisory,Closed Lost,380000,0.0,2026-04-22,CON-004,Amara Diallo,Boutique AI Firm,2026-04-22,43

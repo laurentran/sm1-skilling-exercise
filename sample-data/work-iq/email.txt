@@ -1,0 +1,36 @@
+Subject: Crestmont Financial RFP — Core-Banking Modernization (approach due Fri)
+
+Body:
+
+Team —
+
+Crestmont Financial just sent over their RFP for the core-banking modernization and invited us to propose an approach. They want our Approach section by Friday (May 29), COB so we can review before we submit. Priority pursuit (~$5M, strong land-and-expand).
+
+Please ground it in our closest past work rather than writing from scratch. Our best analog is the Apex Financial Group core-banking & data-platform modernization (same legacy core, ~14 siloed data sources, OCC findings; we cut regulatory reporting time ~95% and lifted data-quality scores from 62% to 94%, clearing the findings). Put Amara Diallo (Partner, Data & AI Practice Lead) forward as the named SME — she led Apex.
+
+Governance: reuse Apex's approach and outcomes, but do not carry over Apex's pricing or any client-confidential deliverables into the Crestmont proposal.
+
+— Dana Cole, Managing Director
+
+---------- Forwarded message ----------
+From: Janet Ross, SVP Technology & Operations, Crestmont Financial
+Re: RFP-2026-CRE-114 — Core-Banking Modernization | Response due: Friday, May 29 (COB)
+
+About Crestmont Financial: ~$34B regional retail & commercial bank; 1.2M customers, 140 branches.
+
+Their situation
+
+- Core banking on a 1990s mainframe; product changes take 9-12 months and depend on specialist COBOL contractors.
+- Customer, account, and transaction data fragmented across 14+ systems — no single customer view.
+- Regulatory reporting is largely manual; the last OCC examination cited data-governance and reporting-timeliness findings to remediate.
+- Wants to ship digital products faster and reduce operational/regulatory risk — without a big-bang core replacement.
+
+What they want in the proposal
+
+- A phased modernization approach / methodology (no big-bang cutover).
+- Relevant experience — comparable core-banking / data-platform engagements, with outcomes.
+- The proposed team and named senior experts.
+- Indicative timeline and commercial model.
+- How we address data governance and OCC regulatory compliance.
+
+Stated evaluation criteria: regulated-industry track record, demonstrated data-platform expertise, minimal disruption to operations, and reference clients.

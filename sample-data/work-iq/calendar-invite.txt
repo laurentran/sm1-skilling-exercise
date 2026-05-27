@@ -1,0 +1,13 @@
+Joint discovery workshop between Crestmont Financial and Meridian Advisory Group to align on the scope, objectives, and constraints for Crestmont's core-banking modernization program, ahead of Meridian's proposed approach.
+
+Agenda
+
+- Introductions and goals for the engagement
+- Current core-banking landscape: mainframe constraints, release cadence, and COBOL dependency
+- Data and reporting pain points: fragmentation across 14+ systems and manual regulatory reporting
+- Regulatory drivers: recent OCC examination findings and remediation priorities
+- Modernization objectives and guardrails: phased approach, no big-bang cutover, minimal disruption
+- Success criteria, timeline, and budget expectations
+- Next steps and proposal timeline (Meridian to submit the proposed approach by Friday)
+
+Attendees: Janet Ross (SVP Technology & Operations, Crestmont Financial); Dana Cole (Managing Director, Meridian); Amara Diallo (Data & AI Practice Lead, Meridian).

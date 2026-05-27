@@ -1,0 +1,41 @@
+consultant_id,name,level,practice,industries,office_location,hire_date,current_utilization_pct,ytd_utilization_pct,standard_hourly_rate_usd
+CON-001,Helen Marsh,Managing Partner,Strategy,Financial Services;Healthcare,New York,2012-01-01,78,82,650
+CON-002,Tariq Osei,Partner,Technology Implementation,Financial Services;Industrial,New York,2016-04-15,81,79,575
+CON-003,Rachel Whitfield,Partner,Operational Excellence,Healthcare;Industrial,Chicago,2014-07-01,73,76,575
+CON-004,Amara Diallo,Partner,Data & AI,Financial Services;Healthcare;Industrial,San Francisco,2018-02-10,92,88,575
+CON-005,David Kim,Senior Manager,Technology Implementation,Financial Services;Healthcare,New York,2019-03-15,87,84,425
+CON-006,Priya Sharma,Senior Manager,Strategy,Healthcare,Boston,2020-01-08,79,81,425
+CON-007,Marcus Chen,Senior Manager,Data & AI,Financial Services;Industrial,San Francisco,2019-09-20,94,89,425
+CON-008,Elena Vasquez,Senior Manager,Operational Excellence,Industrial,Dallas,2021-05-03,85,82,425
+CON-009,James Okonkwo,Senior Manager,Technology Implementation,Healthcare;Cross-Industry,Atlanta,2020-11-12,80,78,425
+CON-010,Sofia Reyes,Senior Manager,Data & AI,Healthcare;Industrial,Chicago,2021-08-23,88,85,425
+CON-011,Daniel Okoro,Senior Manager,Strategy,Financial Services,New York,2020-06-30,76,79,425
+CON-012,Anna Petrova,Manager,Technology Implementation,Financial Services,New York,2021-03-01,91,87,350
+CON-013,Raj Patel,Manager,Data & AI,Financial Services;Healthcare,Chicago,2021-10-15,89,86,350
+CON-014,Hannah Mueller,Manager,Operational Excellence,Healthcare,Boston,2022-01-20,82,80,350
+CON-015,Tom Whitaker,Manager,Technology Implementation,Industrial,Dallas,2022-04-05,87,84,350
+CON-016,Lisa Park,Manager,Strategy,Financial Services;Healthcare,San Francisco,2021-12-08,78,81,350
+CON-017,Brian O'Sullivan,Manager,Data & AI,Industrial,Dallas,2022-07-18,86,83,350
+CON-018,Maya Gupta,Manager,Technology Implementation,Healthcare,Boston,2022-09-12,84,82,350
+CON-019,Carlos Mendoza,Manager,Operational Excellence,Industrial,Atlanta,2022-11-25,81,79,350
+CON-020,Yuki Tanaka,Senior Consultant,Data & AI,Financial Services,New York,2022-08-15,93,89,275
+CON-021,Olivia Brown,Senior Consultant,Strategy,Healthcare,Boston,2022-10-03,85,82,275
+CON-022,Ahmed Hassan,Senior Consultant,Technology Implementation,Financial Services,Chicago,2023-01-15,88,85,275
+CON-023,Grace Liu,Senior Consultant,Data & AI,Healthcare;Industrial,San Francisco,2023-03-22,90,87,275
+CON-024,Nathan Roberts,Senior Consultant,Operational Excellence,Industrial,Dallas,2023-06-08,83,80,275
+CON-025,Isabella Romano,Senior Consultant,Technology Implementation,Healthcare,Atlanta,2023-08-14,86,83,275
+CON-026,Kenji Nakamura,Senior Consultant,Data & AI,Financial Services;Industrial,Chicago,2023-09-30,91,87,275
+CON-027,Sarah Mitchell,Senior Consultant,Strategy,Financial Services,New York,2023-11-20,79,76,275
+CON-028,Diego Fernandez,Consultant,Technology Implementation,Financial Services,New York,2023-07-10,87,84,225
+CON-029,Emma Johansson,Consultant,Data & AI,Healthcare,Boston,2023-09-15,89,86,225
+CON-030,Aisha Khan,Consultant,Strategy,Healthcare;Financial Services,San Francisco,2024-01-22,81,78,225
+CON-031,Lucas Schmidt,Consultant,Operational Excellence,Industrial,Dallas,2024-02-05,84,81,225
+CON-032,Maria Gonzalez,Consultant,Technology Implementation,Healthcare,Atlanta,2024-03-18,88,85,225
+CON-033,Ethan Wright,Consultant,Data & AI,Financial Services,Chicago,2024-05-06,92,88,225
+CON-034,Zara Ahmed,Consultant,Strategy,Industrial,Dallas,2024-06-24,78,75,225
+CON-035,Liam O'Connor,Consultant,Technology Implementation,Industrial,Chicago,2024-08-12,86,82,225
+CON-036,Maya Singh,Analyst,Data & AI,Healthcare,Boston,2024-09-03,90,87,175
+CON-037,Tyler Cooper,Analyst,Strategy,Financial Services,New York,2024-09-15,85,82,175
+CON-038,Chloe Williams,Analyst,Technology Implementation,Industrial,Dallas,2024-10-08,88,84,175
+CON-039,Marcus Bell,Analyst,Data & AI,Financial Services,Chicago,2025-01-20,91,86,175
+CON-040,Sophia Park,Analyst,Operational Excellence,Healthcare,Atlanta,2025-02-10,83,79,175
